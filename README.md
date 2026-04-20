@@ -71,9 +71,6 @@ Click the badge below to open the notebook directly in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retroqasim/monocular-depth-estimation/blob/main/Monocular_Depth_Estimation_MiDaS.ipynb)
 
-> **Note:** After opening, update the Colab badge link in this README to point to your actual notebook URL:
-> `https://colab.research.google.com/github/retroqasim/monocular-depth-estimation/blob/main/Monocular_Depth_Estimation_MiDaS.ipynb`
-
 ### 2. Enable GPU Runtime
 
 Navigate to **`Runtime → Change runtime type → GPU (T4)`** for optimal performance.
