@@ -57,7 +57,7 @@ The notebook supports:
 
 ### Video Depth Estimation (Sample Frame)
 
-<img src="results/IMG_3996_frame_2.png" width="600" alt="Video frame depth estimation">
+<img src="results/video_frame_result.png" width="600" alt="Video frame depth estimation">
 
 *Frame extracted from video depth estimation — street scene at night*
 
