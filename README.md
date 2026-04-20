@@ -4,7 +4,7 @@
 
 **Estimate depth from a single RGB image or video using Intel's MiDaS model**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retroqasim/monocular-depth-estimation/blob/main/Monocular_Depth_Estimation_MiDaS.ipynb)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -57,7 +57,7 @@ The notebook supports:
 
 ### Video Depth Estimation (Sample Frame)
 
-<img src="results/video_frame_result.png" width="600" alt="Video frame depth estimation">
+<img src="results/IMG_3996_frame_2.png" width="600" alt="Video frame depth estimation">
 
 *Frame extracted from video depth estimation — street scene at night*
 
@@ -69,10 +69,10 @@ The notebook supports:
 
 Click the badge below to open the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retroqasim/monocular-depth-estimation/blob/main/Monocular_Depth_Estimation_MiDaS.ipynb)
 
 > **Note:** After opening, update the Colab badge link in this README to point to your actual notebook URL:
-> `https://colab.research.google.com/github/YOUR_USERNAME/monocular-depth-estimation/blob/main/Monocular_Depth_Estimation_MiDaS.ipynb`
+> `https://colab.research.google.com/github/retroqasim/monocular-depth-estimation/blob/main/Monocular_Depth_Estimation_MiDaS.ipynb`
 
 ### 2. Enable GPU Runtime
 
