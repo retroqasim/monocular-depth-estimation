@@ -1,0 +1,73 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+
+# ========================
+# Virtual Environments
+# ========================
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# ========================
+# PyTorch / Model Files
+# ========================
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# ========================
+# Data / Output (optional)
+# ========================
+# Uncomment these if you don't want to track large output files:
+# output/
+# depth_results/
+
+# ========================
+# Misc
+# ========================
+*.log
+*.tmp
+*.bak
+.cache/
+
+# Original download folder (reorganized into results/)
+drive-download-*/
